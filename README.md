@@ -17,18 +17,23 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+**Are you also a big fan of National Park? Do you want to record your footprint of all the National parks you have been to and explore more? Here is the webiste you'd love to!! 😃**
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-Are you also a big fan of National Park? Do you want to record your footprint of all the National parks you have been to and explore more? Here is the webiste you'd love to!! 😃
-
-Project Main Hightlights:
+*Project Hightlights:*
 
 •	Developed a responsive React website to let users record visited national parks. 
 •	Implemented theme switching using JavaScript for an improved user interface. 
 •	Created clear navigation and login and ensure optimal viewing on various computer and mobile device screens.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+*This is login page for users*
+![NP login](https://github.com/ziyanw52/National-Park-Explorer-Website/blob/main/NP%20image1.jpeg)
+
+
+*Homepage, with night mode on, login status*
+![NP homepage](https://github.com/ziyanw52/National-Park-Explorer-Website/blob/main/NP%20image2.jpeg)
+
 
 ### Built With
 
@@ -36,7 +41,7 @@ Project Main Hightlights:
 * [![Vue][Vue.js]][Vue-url]
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -54,7 +59,7 @@ Ziyanw - jenniferyanyan52@gmail.com
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
